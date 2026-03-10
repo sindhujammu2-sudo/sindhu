@@ -10,7 +10,7 @@ The platform also includes multilingual voice assistance, plant health scoring, 
 
 Try the application here:
 
-🔗 https://agro-lens-ai-sepia.vercel.app/scan
+🔗 https://agro-lens-ai-sepia.vercel.app
 
 ---
 
